@@ -6,7 +6,7 @@ A Shopify app that allows merchants to create and display custom badges on their
 
 - ✅ Create custom badges with name and color
 - ✅ Assign badges to multiple products
-- ✅ Display badges on storefront (product pages & collections)
+- ✅ Display badges on storefront (product pages at the top of Product image)
 - ✅ Edit and delete badges
 - ✅ Multi-tenant support (data isolated per shop)
 - ✅ Customizable badge position and size
@@ -113,7 +113,7 @@ model Badge {
 1. Go to your Shopify admin
 2. Navigate to **Apps** > **Custom Product Badges**
 3. Click **Create new product badge**
-4. Select products (only products without badges shown)
+4. Select products 
 5. Enter badge name and choose color
 6. Click **Create badge**
 
